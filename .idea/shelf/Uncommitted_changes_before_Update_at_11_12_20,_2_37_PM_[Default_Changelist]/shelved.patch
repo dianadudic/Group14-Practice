@@ -1,0 +1,18 @@
+Index: src/Volkan/Task001.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Volkan;\n\npublic class Task001 {\n    // Hello guys I want to test my commits\n     // HELLO HELLO\n    //hey\n    //justit\n\n\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Volkan/Task001.java	(revision 8f15800e32c43b365a1d1178c22cd30dccccf971)
++++ src/Volkan/Task001.java	(date 1605207655047)
+@@ -4,7 +4,7 @@
+     // Hello guys I want to test my commits
+      // HELLO HELLO
+     //hey
+-    //justit
++    //justIt
+ 
+ 
+ }

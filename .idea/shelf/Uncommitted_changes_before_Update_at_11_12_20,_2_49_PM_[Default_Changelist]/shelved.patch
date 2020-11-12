@@ -1,0 +1,12 @@
+Index: src/Main.java
+===================================================================
+--- src/Main.java	(revision c86a1919351877c7ddc0fc762d2b8e9278d3386c)
++++ src/Main.java	(revision c86a1919351877c7ddc0fc762d2b8e9278d3386c)
+@@ -1,7 +0,0 @@
+-public class Main {
+-    public static void main(String[] args) {
+-        System.out.println("group 14");
+-
+-
+-    }
+-}

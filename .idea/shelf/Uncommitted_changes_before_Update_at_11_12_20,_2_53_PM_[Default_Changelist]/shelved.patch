@@ -1,0 +1,13 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>/Group14-Practice.iml\n/.idea/\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .gitignore	(revision c86a1919351877c7ddc0fc762d2b8e9278d3386c)
++++ .gitignore	(date 1605210814529)
+@@ -1,2 +1,1 @@
+-/Group14-Practice.iml
+-/.idea/
++
