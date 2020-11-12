@@ -1,1 +1,8 @@
-
+<<<<<<< HEAD
+/src/
+/.gitignore
+/.idea/
+=======
+/.idea/
+/Group14-Practice.iml
+>>>>>>> origin/master
