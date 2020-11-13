@@ -16,10 +16,18 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e6ea5d-93e2-4041-84a8-80c3adbacb01" name="Default Changelist" comment="" />
+    <list default="true" id="a69a2921-a148-41fd-b640-e3d864cf36dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,10 +43,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1kCSFfKEWmrQc2ikJQfYlxoIPRR" />
-  <component name="ProjectLevelVcsManager">
-    <OptionsSetting value="false" id="Update" />
-  </component>
+  <component name="ProjectId" id="1kChQQxdAG1vsc8pqYZIrzGcOLO" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
@@ -49,83 +54,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="89e6ea5d-93e2-4041-84a8-80c3adbacb01" name="Default Changelist" comment="" />
-      <created>1605202977658</created>
+      <changelist id="a69a2921-a148-41fd-b640-e3d864cf36dd" name="Default Changelist" comment="" />
+      <created>1605210463919</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605202977658</updated>
+      <updated>1605210463919</updated>
     </task>
-    <task id="LOCAL-00001" summary="package volkan">
-      <created>1605203109719</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1605203109719</updated>
-    </task>
-    <task id="LOCAL-00002" summary="package volkan task001">
-      <created>1605203183312</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1605203183312</updated>
-    </task>
-    <task id="LOCAL-00003" summary="commit test1">
-      <created>1605203341008</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1605203341008</updated>
-    </task>
-    <task id="LOCAL-00004" summary="commit2">
-      <created>1605204107501</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1605204107501</updated>
-    </task>
-    <task id="LOCAL-00005" summary="commit3">
-      <created>1605205446964</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1605205446964</updated>
-    </task>
-    <task id="LOCAL-00006" summary="commit4">
-      <created>1605205813629</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1605205813629</updated>
-    </task>
-    <task id="LOCAL-00007" summary="commit5">
-      <created>1605205831450</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1605205831450</updated>
-    </task>
-    <task id="LOCAL-00008" summary="commit5">
-      <created>1605210019016</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1605210019017</updated>
-    </task>
-    <task id="LOCAL-00009" summary="commit6">
-      <created>1605210926016</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1605210926016</updated>
-    </task>
-    <task id="LOCAL-00010" summary="commit6">
-      <created>1605211158360</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1605211158360</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,51 +67,32 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="package volkan" />
-    <MESSAGE value="package volkan task001" />
-    <MESSAGE value="commit test1" />
-    <MESSAGE value="commit2" />
-    <MESSAGE value="commit3" />
-    <MESSAGE value="commit4" />
-    <MESSAGE value="commit5" />
-    <MESSAGE value="commit6" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit6" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="417" y="219" key="#Notifications" timestamp="1605210605564">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="122" y="138" key="Vcs.Push.Dialog.v2" timestamp="1605224985366">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="417" y="219" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1605210605564" />
-    <state x="417" y="222" key="#Notifications/0.23.1440.816@0.23.1440.816" timestamp="1605210102036" />
-    <state x="268" y="44" width="904" height="821" key="CommitChangelistDialog2" timestamp="1605210925770">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="122" y="138" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1605224985366" />
+    <state x="386" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605225005211">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="268" y="0" width="904" height="900" key="CommitChangelistDialog2/0.0.1440.900/-282.-1080.1920.1080@0.0.1440.900" timestamp="1605205446702" />
-    <state x="268" y="23" width="904" height="821" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1605210889561" />
-    <state x="268" y="23" key="CommitChangelistDialog2/0.23.1440.816/-282.-1057.1920.1057@0.23.1440.816" timestamp="1605205831185" />
-    <state x="268" y="23" width="904" height="816" key="CommitChangelistDialog2/0.23.1440.816@0.23.1440.816" timestamp="1605210018795" />
-    <state x="268" y="44" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1605210925770" />
-    <state x="275" y="144" key="MultipleFileMergeDialog" timestamp="1605210958168">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="275" y="144" key="MultipleFileMergeDialog/0.23.1440.821@0.23.1440.821" timestamp="1605210958168" />
-    <state x="220" y="138" key="Vcs.Push.Dialog.v2" timestamp="1605206020489">
-      <screen x="0" y="23" width="1440" height="816" />
-    </state>
-    <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900/-282.-1080.1920.1080@0.0.1440.900" timestamp="1605205456383" />
-    <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605203356384" />
-    <state x="220" y="138" key="Vcs.Push.Dialog.v2/0.23.1440.816/-282.-1057.1920.1057@0.23.1440.816" timestamp="1605206020489" />
-    <state x="501" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605205415207">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="501" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-282.-1080.1920.1080@0.0.1440.900" timestamp="1605205415206" />
+    <state x="386" y="365" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1605225005211" />
   </component>
 </project>
